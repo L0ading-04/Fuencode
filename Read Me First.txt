@@ -1,0 +1,13 @@
+TODO: 
+
+1- Revisar Alt= ""
+
+2- Optimizar el SEO
+
+3- Limpiar carpetas llenas
+
+4- Agregar un futuro Contador de Proyectos,
+
+5- Codigo Koami "Buscar alguna Funcionalidad"
+
+6- getCurrentYear()
